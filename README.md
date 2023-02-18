@@ -1,2 +1,2 @@
-# Pulsars-Pdot_vs_P_plot
-P-Pdot plot created using pulsar database
+# Pulsars: P - Pdot diagram
+P-Pdot plot created using pulsar database (https://heasarc.gsfc.nasa.gov/W3Browse/all/atnfpulsar.html)
